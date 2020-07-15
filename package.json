@@ -2,6 +2,7 @@
   "name": "react-shop-one",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vodangkick.github.io/shop-demo/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -23,7 +24,6 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-toastify": "^6.0.8",
-    "websocket-extensions": "^0.1.4",
     "yarn": "^1.22.4"
   },
   "scripts": {
